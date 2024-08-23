@@ -52,7 +52,7 @@ body {
 .lista-menu {
     display: none;
     position: absolute;
-    top: 100%;
+    top: 100%;spa
 }
 
 .container__botao:checked~.lista-menu {
@@ -71,7 +71,7 @@ body {
 
 .banner {
     background: var(--azul-degrade);
-    color: var(--branco);
+    color: var(--branco);spa
     text-align: center;
     padding: 2.5em 2em;
 }
@@ -89,7 +89,7 @@ body {
 .banner__pesquisa {
     background-color: transparent;
     border: 1px solid var(--branco);
-    color: var(--branco);
+    color: var(--branco);spa
     border-radius: 24px;
     padding: 1em;
     width: 100%;

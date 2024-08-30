@@ -108,7 +108,7 @@ body {
 .topicos {
     background: var(--azul-degrade);
     text-align: center;
-    padding: 11;px
+    padding: 1em 0;
 }
 
 .topicos__titulo {

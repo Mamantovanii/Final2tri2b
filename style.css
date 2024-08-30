@@ -21,7 +21,7 @@ body {
 }
 
 .cabeçalho {
-    background-color: var(--branco);
+    background: url("ninalogo.png")
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -38,7 +38,7 @@ body {
     padding: 1em;
     margin: 1;
     width: 1000px;
-
+    
 }
 
 .cabeçalho__menu-hamburguer {
